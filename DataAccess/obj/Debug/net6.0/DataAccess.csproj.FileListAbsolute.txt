@@ -1,0 +1,14 @@
+D:\Codes\TrendyHandlooms\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Codes\TrendyHandlooms\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Codes\TrendyHandlooms\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Codes\TrendyHandlooms\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Codes\TrendyHandlooms\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
